@@ -7,5 +7,8 @@ This is style checker tool for one project to support C++, JavaScript, Python, e
 * JavaScript: Self defined config by using ESLinter
 * Python: TBA
 
-* How to Use
-
+# How to Use
+```
+npm install --save-dev 1linter
+./node_modules/.bin/1linter 
+```
