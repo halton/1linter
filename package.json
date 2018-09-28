@@ -1,0 +1,32 @@
+{
+  "name": "1linter",
+  "version": "0.0.1",
+  "bin" : {
+    "1linter" : "./index.js"
+  },
+  "description": "A tool to run linter for multiple languages (C++, JavaScript, Python, etc.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halton/1linter.git"
+  },
+  "keywords": [
+    "linter",
+    "Google",
+    "C++",
+    "JavaScript",
+    "Python"
+  ],
+  "author": "Halton Huo <halton.huo@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/halton/1linter/issues"
+  },
+  "homepage": "https://github.com/halton/1linter#readme",
+  "dependencies": {
+    "eslint": "^5.6.0"
+  }
+}
